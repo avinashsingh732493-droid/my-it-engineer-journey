@@ -15,7 +15,9 @@ I am a BCA student and currently learning Information Technology and Computer Ne
 - Python Programming
 - Linux
 - CCNA
-- CCNP
+- CCNP - Artificial Intelligence (AI)
+- Machine Learning Basics
+- Generative AI Tools
 
 ## My Goals
 - Become a Professional Network Engineer
